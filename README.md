@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on an **E-commerce project**.
+- 🔭 I’m currently working on an **Koltin**.
 - 🌱 I’m actively learning **Node.js**, **Project Management**, **Clean Architecture**, and more!
 - 💬 Feel free to ask me about **Flutter**.
 - 📫 How to reach me: [soninhatim66@gmail.com](mailto:soninhatim66@gmail.com)
