@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on an **CV2X Project**.
 - 🌱 I’m actively learning **Node.js**, **Project Management**, **Clean Architecture**, and more!
-- 💬 Feel free to ask me about **Flutter**.
 - 📫 How to reach me: [yosifmohamedain8@gmail.com](mailto:yosifmohamedain8@gmail.com)
 
 ## 🌐 Connect with Me:
